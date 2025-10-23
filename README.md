@@ -26,15 +26,47 @@ I'm driven by continuous learning, working in dynamic teams, and building projec
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaisncp&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisncp&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Thaisncp&theme=tokyonight&row=1&column=7)
+
+---
+
+## 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🚀 Top Contributed Repos & About Me
+
+<div align="center">
+
+### 🔝 My Top Repositories
+| Repository | Grade |
+|-------------|--------|
+| [Project1](https://github.com/Thaisncp/monitoreo_pis6to.git) | 🅱 |
+| [Project2](https://github.com/Thaisncp/Proyecto_IoT.git) | 🅱 |
+| [Project3](https://github.com/Thaisncp/NOTICIAS_FLUTTER) | 🅱 |
+| [Project4](https://github.com/Thaisncp/Weather_app.git) | 🅱 |
+
+</div>
+
+```json
+about_me = {
+  "country": "Ecuador",
+  "city": "Loja",
+  "main_languages": ["Flutter", "JavaScript", "Django"],
+  "secondary_languages": ["React Native", "HTML", "CSS"],
+  "energy": "Coca-Cola ☕"
+}
 
 ---
 
