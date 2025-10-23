@@ -67,7 +67,7 @@ about_me = {
   "secondary_languages": ["React Native", "HTML", "CSS"],
   "energy": "Coca-Cola ☕"
 }
-
+```
 ---
 
 ## 🌐 Connect with me
